@@ -1,6 +1,6 @@
 ### Opa bem vindo ao meu perfil
 
-Meu nome e Leonardo
+Meu nome é Leonardo
 
 -Eu estou estudando no alura
 Eu estou me desenvolvendo
